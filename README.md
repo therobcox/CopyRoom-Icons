@@ -10,6 +10,8 @@ Inherits=gnome-colors-common,gnome,Adwaita,breeze,oxygen,hicolor
 
 Includes CopyRoom folder theme
 
+<img width="1920" height="1080" alt="preview1" src="https://github.com/user-attachments/assets/75ca3561-064f-4ab5-b867-9f7aa845c0dc" />
+
 # Installation
 Right-click on file CopyRoom-Icons.tar.xz and select "Extract Here"
 
