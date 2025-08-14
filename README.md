@@ -13,7 +13,7 @@ Includes CopyRoom folder theme
 <img width="1920" height="1080" alt="preview1" src="https://github.com/user-attachments/assets/75ca3561-064f-4ab5-b867-9f7aa845c0dc" />
 
 # Installation
-Download CopyRoom Icons here: <a href="https://www.pling.com/p/2310472/">https://www.pling.com/p/2310472/</a>
+Download CopyRoom Icons here: <a href="https://www.gnome-look.org/p/2310472/">https://www.gnome-look.org/p/2310472/</a>
 
 Right-click on file CopyRoom-Icons.tar.xz and select "Extract Here"
 
@@ -24,3 +24,5 @@ Copy/Paste new CopyRoom-Icons folder to location:
 /home/"username"/.themes
 
 Use your Appearance Settings App or GNOME Tweaks to set new theme
+
+CopyRoom Theme here: <a href="https://github.com/therobcox/CopyRoom">https://github.com/therobcox/CopyRoom</a>
